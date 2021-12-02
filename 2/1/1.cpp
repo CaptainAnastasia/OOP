@@ -75,5 +75,9 @@ int main()
         cout << vector[i] << " ";
     }
     cout << "]";
- 
+        cout << "\n";
+    matrix++;
+    Process(matrix);
+    matrix--;
+    Process(matrix);
 }
