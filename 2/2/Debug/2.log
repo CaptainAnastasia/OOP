@@ -1,0 +1,8 @@
+﻿  2.cpp
+  Fraction.cpp
+G:\stude\c++\2\2\Fraction.cpp(50,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\stude\c++\2\2\Fraction.cpp(51,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\stude\c++\2\2\Fraction.cpp(73,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\stude\c++\2\2\Fraction.cpp(74,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  2.vcxproj -> G:\stude\c++\2\Debug\2.exe
