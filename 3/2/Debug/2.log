@@ -1,8 +1,0 @@
-﻿  Airliner.cpp
-G:\stude\c++\3\2\Airliner.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-G:\stude\c++\3\2\Airliner.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-G:\stude\c++\3\2\Airliner.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-G:\stude\c++\3\2\Airliner.cpp(22,2): error C2562: 'Airliner::load': 'void' function returning a value
-G:\stude\c++\3\2\Airliner.cpp(19): message : see declaration of 'Airliner::load'
-  Airplane.cpp
-  Generating Code...
