@@ -1,0 +1,8 @@
+﻿  Airfreighter.cpp
+G:\stude\c++\3\2\Airfreighter.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\stude\c++\3\2\Airfreighter.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\stude\c++\3\2\Airfreighter.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\stude\c++\3\2\Airfreighter.h(5,29): warning C4584: 'Airfreighter': base-class 'ILoadable' is already a base-class of 'Airplane'
+G:\stude\c++\3\2\ILoadable.h(7): message : see declaration of 'ILoadable'
+G:\stude\c++\3\2\Airplane.h(6): message : see declaration of 'Airplane'
+  2.vcxproj -> G:\stude\c++\3\Debug\2.exe

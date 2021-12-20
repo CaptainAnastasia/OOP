@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Substractor.cpp
+G:\stude\c++\3\3\Substractor.cpp(19,26): warning C4018: '<': signed/unsigned mismatch
+G:\stude\c++\3\3\Substractor.cpp(42,26): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  3.vcxproj -> G:\stude\c++\3\Debug\1.exe
